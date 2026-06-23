@@ -54,7 +54,7 @@ document.getElementById('predictButton').addEventListener('click', async functio
                     var totalRedDPR = 0;
                     var totalBlueDPR = 0;
                     var highestBlueCCWMName = "frcNull";
-                    var highestRedCCWMName = "frcNull";
+                    var highestRedCCWMName = "frcNull"; //hackatime init
                     var highestBlueCCWM = -Infinity;
                     var highestRedCCWM = -Infinity;
                     var totalRedCCWM = 0;
